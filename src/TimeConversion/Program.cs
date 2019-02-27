@@ -10,12 +10,10 @@ namespace TimeConversion
 
         static void Main(string[] args)
         {
-            while (true)
-            {
-                string strTime = Convert.ToString(Console.ReadLine()); //07:05:45PM
-                string result = format24Time(strTime);
-                Console.WriteLine(result);
-            }
+            string strTime = Convert.ToString(Console.ReadLine()); //07:05:45PM
+            string result = format24Time(strTime);
+            Console.WriteLine(result);
+
             Console.Read();
         }
 
