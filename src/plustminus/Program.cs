@@ -2,6 +2,7 @@
 
 namespace plustminus
 {
+    //problem url : https://www.hackerrank.com/challenges/plus-minus
     class Program
     {
         static string ratioCalculator(double count, double total)

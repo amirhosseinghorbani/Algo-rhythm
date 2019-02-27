@@ -3,9 +3,9 @@ using System.Text;
 
 namespace Staircase
 {
+    //problem url: https://www.hackerrank.com/challenges/staircase
     class Program
     {
-        // Complete the staircase function below.
         static void staircase(int n)
         {
             for (int i = 1; i <= n; i++)

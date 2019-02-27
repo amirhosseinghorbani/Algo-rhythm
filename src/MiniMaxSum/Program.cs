@@ -2,6 +2,7 @@
 
 namespace MiniMaxSum
 {
+    //problem url: https://www.hackerrank.com/challenges/mini-max-sum
     class Program
     {
         static void miniMaxSum(long[] arr)

@@ -2,6 +2,7 @@
 
 namespace TimeConversion
 {
+    //problem url: https://www.hackerrank.com/challenges/time-conversion
     class Program
     {
         static void Main(string[] args)
