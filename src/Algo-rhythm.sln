@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BirthdayCakeCandles", "Birt
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TimeConversion", "TimeConversion\TimeConversion.csproj", "{C44D40CC-9031-4D5C-B140-D6142C573DB6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GradingStudents", "GradingStudents\GradingStudents.csproj", "{9250C88D-EDF3-48D3-B6AC-17F4A7F990EA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GradingStudents", "GradingStudents\GradingStudents.csproj", "{9250C88D-EDF3-48D3-B6AC-17F4A7F990EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pairs", "Pairs\Pairs.csproj", "{9ABDEDDE-34EF-4CB5-B174-C6E2F4AACB2C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{9250C88D-EDF3-48D3-B6AC-17F4A7F990EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9250C88D-EDF3-48D3-B6AC-17F4A7F990EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9250C88D-EDF3-48D3-B6AC-17F4A7F990EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9ABDEDDE-34EF-4CB5-B174-C6E2F4AACB2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9ABDEDDE-34EF-4CB5-B174-C6E2F4AACB2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9ABDEDDE-34EF-4CB5-B174-C6E2F4AACB2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9ABDEDDE-34EF-4CB5-B174-C6E2F4AACB2C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
