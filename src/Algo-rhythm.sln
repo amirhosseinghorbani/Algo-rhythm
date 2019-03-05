@@ -15,7 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TimeConversion", "TimeConve
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GradingStudents", "GradingStudents\GradingStudents.csproj", "{9250C88D-EDF3-48D3-B6AC-17F4A7F990EA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pairs", "Pairs\Pairs.csproj", "{9ABDEDDE-34EF-4CB5-B174-C6E2F4AACB2C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pairs", "Pairs\Pairs.csproj", "{9ABDEDDE-34EF-4CB5-B174-C6E2F4AACB2C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sort", "Sort\Sort.csproj", "{43905ABA-11D8-4C71-BF9D-5F485FD7722D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{9ABDEDDE-34EF-4CB5-B174-C6E2F4AACB2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9ABDEDDE-34EF-4CB5-B174-C6E2F4AACB2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9ABDEDDE-34EF-4CB5-B174-C6E2F4AACB2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43905ABA-11D8-4C71-BF9D-5F485FD7722D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43905ABA-11D8-4C71-BF9D-5F485FD7722D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43905ABA-11D8-4C71-BF9D-5F485FD7722D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43905ABA-11D8-4C71-BF9D-5F485FD7722D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
