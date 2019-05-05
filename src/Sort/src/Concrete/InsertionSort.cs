@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace Sort
+﻿namespace Sort.Concrete
 {
     public class InsertionSort<T> : ISortAlgorithm<T> where T : struct
     {

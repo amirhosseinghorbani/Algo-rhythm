@@ -4,3 +4,4 @@ src/.vs
 .vscode
 **/*csproj.user
 **/tempkey.rsa
+.vs/**
